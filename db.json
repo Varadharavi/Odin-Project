@@ -1,0 +1,35 @@
+{
+  "course": "tnpsc",
+  "subjects": {
+    "subjectName": "History",
+    "chapters": {
+      "chapterName": "Chapter One",
+      "sections": {
+        "sectionName": "Section 1",
+        "contents": {
+          "title": "Test Title",
+          "body": [
+            {
+              "subheading": "Test SubHeading 1",
+              "sub-content": "Content 1"
+            },
+            {
+              "subheading": "Test SubHeading 2",
+              "sub-content": "Content 2"
+            },
+            {
+              "subheading": "Test SubHeading 3",
+              "sub-content": "Content 3"
+            },
+            {
+              "subheading": "Test SubHeading 4",
+              "sub-content": "Content 4"
+            }
+          ],
+          "questions": {}
+        }
+      }
+    }
+  }
+}
+
