@@ -1,12 +1,4 @@
 {
-  "course": "tnpsc",
-  "subjects": {
-    "subjectName": "History",
-    "chapters": {
-      "chapterName": "Chapter One",
-      "sections": {
-        "sectionName": "Section 1",
-        "contents": {
           "title": "Test Title",
           "body": [
             {
@@ -27,9 +19,5 @@
             }
           ],
           "questions": {}
-        }
-      }
-    }
-  }
 }
 
